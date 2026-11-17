@@ -71,8 +71,12 @@ QA Automation Engineer / SDET with **4+ years** of hands-on experience shipping 
 
 ## 📂 Featured Work
 
-- 🔹 **[itzflow_portal](https://github.com/allahditasqa/itzflow_portal)** — TypeScript project
-- 🚧 More automation frameworks, API collections and performance scripts coming soon
+| Project | Stack | What it shows |
+|---|---|---|
+| **[Playwright](https://github.com/allahditasqa/Playwright)** | Playwright · TypeScript | UI + API framework with Page Object Model, fixtures, module-wise HTML reports, regression/traceability checks, QA process docs and CI. **47 test cases** |
+| **[Cypress](https://github.com/allahditasqa/Cypress)** | Cypress · TypeScript | The same 47 test cases (same IDs) built in Cypress to compare tools: cached login sessions, custom commands, @smoke tags, API tests, HTML report, CI |
+| **[Appium](https://github.com/allahditasqa/Appium)** | Appium · Java · TestNG · Maven | Mobile automation for Android and iOS: one code base for real devices, emulators/simulators and cloud, retry listener, HTML reporting, CI |
+| **[itzflow_portal](https://github.com/allahditasqa/itzflow_portal)** | TypeScript | Web portal project |
 
 ---
 
