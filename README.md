@@ -76,6 +76,14 @@ QA Automation Engineer / SDET with **4+ years** of hands-on experience shipping 
 | **[Playwright](https://github.com/allahditasqa/Playwright)** | Playwright · TypeScript | UI + API framework with Page Object Model, fixtures, module-wise HTML reports, regression/traceability checks, QA process docs and CI. **47 test cases** |
 | **[Cypress](https://github.com/allahditasqa/Cypress)** | Cypress · TypeScript | The same 47 test cases (same IDs) built in Cypress to compare tools: cached login sessions, custom commands, @smoke tags, API tests, HTML report, CI |
 | **[Appium](https://github.com/allahditasqa/Appium)** | Appium · Java · TestNG · Maven | Mobile automation for Android and iOS: one code base for real devices, emulators/simulators and cloud, retry listener, HTML reporting, CI |
+| **[restful_booker](https://github.com/allahditasqa/restful_booker)** | Playwright · TypeScript | 54 API test cases for all 8 endpoints of the Restful-Booker API (auth, filters, JSON/XML, CRUD, negative cases), with a defect log of 3 documentation-vs-API mismatches |
+| **[Selenium](https://github.com/allahditasqa/Selenium)** | Selenium 4 · Java 17 · TestNG | Page Object Model web tests against saucedemo.com |
+| **[RestAssured](https://github.com/allahditasqa/RestAssured)** | REST Assured 5 · Java 17 · TestNG | API tests against the JSONPlaceholder API |
+| **[Postman](https://github.com/allahditasqa/Postman)** | Postman · Newman | Collection and environment with test assertions, run from the command line |
+| **[JMeter](https://github.com/allahditasqa/JMeter)** | Apache JMeter 5.6 | Load/stress test plan (.jmx) with assertions and an HTML dashboard report |
+| **[k6](https://github.com/allahditasqa/k6)** | k6 · JavaScript | Smoke, load, stress, spike and soak tests with pass/fail thresholds |
+| **[Jenkins](https://github.com/allahditasqa/Jenkins)** | Jenkins · Docker | Declarative Jenkinsfile that runs the Playwright and Cypress suites in Docker agents |
+| **[Docker](https://github.com/allahditasqa/Docker)** | Docker · Compose | Playwright, Cypress and Newman suites running in disposable containers |
 | **[itzflow_portal](https://github.com/allahditasqa/itzflow_portal)** | TypeScript | Web portal project |
 
 ---
