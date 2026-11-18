@@ -122,5 +122,7 @@ QA Automation Engineer / SDET with **4+ years** of hands-on experience across we
 Open to QA Automation / SDET / Quality Lead roles and collaborations.
 
 <p align="left">
+  <a href="mailto:allahdittasqa@gmail.com"><img src="https://img.shields.io/badge/Email-allahdittasqa%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/allahdittasqa"><img src="https://img.shields.io/badge/LinkedIn-allahdittasqa-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/allahditasqa"><img src="https://img.shields.io/badge/GitHub-allahditasqa-181717?style=flat&logo=github"></a>
 </p>
