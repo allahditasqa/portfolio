@@ -65,7 +65,7 @@ QA Automation Engineer / SDET with **4+ years** of hands-on experience across we
 
 | Project | Stack | What it shows |
 |---|---|---|
-| **[Appium](https://github.com/allahditasqa/Appium)** | Appium · Java · TestNG · Maven | Mobile framework for Android and iOS: screen objects, retry listener, HTML reporting, 5 documented cases and a docs-traceability test. Needs a device or emulator, so no device report is committed |
+| **[Appium](https://github.com/allahditasqa/Appium)** | Appium · Java · TestNG · Maven | Mobile framework for Android and iOS: screen objects, retry listener, 5 documented cases, docs-traceability test, module-wise reports from real runs on a **Google Pixel 5 (Android 14)**, 5/5 passed in each of 3 runs |
 | **[Jenkins](https://github.com/allahditasqa/Jenkins)** | Jenkins · Docker | Declarative Jenkinsfile that runs the Playwright and Cypress suites in Docker agents |
 | **[Docker](https://github.com/allahditasqa/Docker)** | Docker · Compose | Playwright, Cypress and Newman suites running in disposable containers |
 
